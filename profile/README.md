@@ -8,4 +8,4 @@ Our mission with these technologies is to empower companies (especially startups
 
 # Blog
 
-https://journeyapps-labs.github.io/site/blog
+https://labs.journeyapps.com
